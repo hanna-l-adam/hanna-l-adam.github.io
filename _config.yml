@@ -26,10 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Hanna L. Adam"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Bayreuth, Germany"
+  bio              : "PhD candidate at the Chair of Empirical Economics, University of Bayreuth"
+  #location         : "Bayreuth, Germany"
   #employer         : "University of Bayreuth"
-  employer         : '<a href="https://www.uni-bayreuth.de" target="_blank">University of Bayreuth</a>'
+  location         : '<a href="https://www.uni-bayreuth.de/en" target="_blank">University of Bayreuth</a>'
+  # (puts link behind University of Bayreuth and opens in new tab) 
+  employer         : '<a href="https://www.ewf.uni-bayreuth.de/en/" target="_blank">Chair of Empirical Economics</a>'
   uri              : # URL
   email            : "hanna.adam@uni-bayreuth.de" 
 
