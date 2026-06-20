@@ -19,3 +19,9 @@ ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and 
 
 
 **Selected Work in Progress**
+
+A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>).
+
+Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting. 
+
+Spillovers, Trade Agreements and Border Regions: Econometric Evidence from Subnational Data (with <a href="https://www.entwicklung.uni-bayreuth.de/en/team/Bieske-Lara/index.php" target="_blank">Lara Bieske</a>, <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>).
