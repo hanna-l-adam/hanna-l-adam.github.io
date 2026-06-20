@@ -11,4 +11,4 @@ I am a PhD candidate at the <a href="https://www.ewf.uni-bayreuth.de/en/" target
 
 I am on the 2026/27 job market. 
 
-You can download my <a href="/files/2026-06-17_CV_HannaAdam_Eng.pdf" target="_blank">CV here</a>
+You can download my <a href="/files/CV_HannaAdam_Eng.pdf" target="_blank">CV here</a>
