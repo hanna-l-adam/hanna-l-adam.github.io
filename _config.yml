@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate"
   location         : "Bayreuth, Germany"
-  employer         : "University of Bayreuth"
+  #employer         : "University of Bayreuth"
+  employer         : '<a href="https://www.uni-bayreuth.de" target="_blank">University of Bayreuth</a>'
   uri              : # URL
   email            : "hanna.adam@uni-bayreuth.de" 
 
