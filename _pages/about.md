@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the <a href="https://www.ewf.uni-bayreuth.de/en/" target="_blank">Chair of Empirical Economics</a> at the <a href="[https://www.ewf.uni-bayreuth.de/en/](https://www.uni-bayreuth.de/en)" target="_blank">University of Bayreuth</a>. 
+I am a PhD candidate at the <a href="https://www.ewf.uni-bayreuth.de/en/" target="_blank">Chair of Empirical Economics</a> at the <a href="https://www.uni-bayreuth.de/en" target="_blank">University of Bayreuth</a>
 
 I am on the 2026/27 job market. 
 
