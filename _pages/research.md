@@ -7,8 +7,15 @@ redirect_from:
   - /resume
 ---
 
-Publications
+**Publications**
 
-Working Papers 
+Trade Agreements and Subnational Income of Border Regions (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>), *Economic Inquiry*, 61(4), 2023, pp. 1034–1052 (<a href="https://doi.org/10.1111/ecin.13151" target="_blank">Link</a>).
 
-Selected Work in Progress
+Spain, Split and Talk: Quantifying Regional Independence (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>), *Regional Studies*, 59(1), 2025 (<a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Link</a>).
+
+**Working Papers**
+
+ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and an Application to Trade Flows (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael Nower</a>), *CESifo Working Paper No. 12055*, 2025 (<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/anova-hdfe-fast-variance-decomposition-high-dimensional-fixed" target="_blank">Link</a>).
+
+
+**Selected Work in Progress**
