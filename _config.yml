@@ -24,7 +24,7 @@ author:
   avatar           : "Foto_Adam1.jpg"
   name             : "Hanna L. Adam"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at the Chair of Empirical Economics, University of Bayreuth"
+  bio              : "PhD candidate" # at the Chair of Empirical Economics, University of Bayreuth
   #location         : "Bayreuth, Germany"
   #employer         : "University of Bayreuth"
   location         : '<a href="https://www.uni-bayreuth.de/en" target="_blank">University of Bayreuth</a>'
