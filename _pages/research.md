@@ -9,7 +9,7 @@ redirect_from:
 
 **Publications**
 
-Trade Agreements and Subnational Income of Border Regions (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>), *Economic Inquiry*, 61(4), 2023, pp. 1034–1052 (<a href="https://doi.org/10.1111/ecin.13151" target="_blank">Link</a>).
+Trade Agreements and Subnational Income of Border Regions (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>), *Economic Inquiry*, 61(4), 2023, pp. 1034–1052 (Links: <a href="https://doi.org/10.1111/ecin.13151" target="_blank">Paper</a>, <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fecin.13151&file=ecin13151-sup-0002_Appendix.pdf" target="_blank">Online Appendix</a>, <a href="https://doi.org/10.3886/E191609V3" target="_blank">Replication Files</a>).
 
 Spain, Split and Talk: Quantifying Regional Independence (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>), *Regional Studies*, 59(1), 2025 (<a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Link</a>).
 
