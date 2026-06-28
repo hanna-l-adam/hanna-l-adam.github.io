@@ -13,12 +13,12 @@ Trade Agreements and Subnational Income of Border Regions (with <a href="https:/
 
 Spain, Split and Talk: Quantifying Regional Independence (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>), *Regional Studies*, 59(1), 2025 (<a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Link</a>).
 
-# Publications
+# Working Papers
 
 ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and an Application to Trade Flows (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael Nower</a>), *CESifo Working Paper No. 12055*, 2025 (<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/anova-hdfe-fast-variance-decomposition-high-dimensional-fixed" target="_blank">Link</a>).
 
 
-# Publications
+# Selected Work in Progress
 
 A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>).
 
