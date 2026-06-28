@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hanna L. Adam"
+#title: "Hanna L. Adam"
 author_profile: true
 redirect_from: 
   - /about/
