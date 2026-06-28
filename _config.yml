@@ -7,9 +7,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hanna Luise Adam"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "About"
+name                     : &name "Hanna L. Adam"
 description              : &description "Academic webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hanna-l-adam.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -21,7 +21,7 @@ repository               : "hanna-l-adam/hanna-l-adam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foto_Adam2.jpg"
+  avatar           : "Foto_Adam3.jpg"
   name             : "Hanna L. Adam"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate" # at the Chair of Empirical Economics, University of Bayreuth
