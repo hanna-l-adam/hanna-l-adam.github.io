@@ -153,13 +153,13 @@
     height: auto;
   }
 
-#  img {
-#    max-width: 175px;
-#    border-radius: 50%;
-
   img {
     max-width: 175px;
-    border-radius: 0%;
+    border-radius: 50%;
+
+#  img {
+#    max-width: 175px;
+#    border-radius: 0%;
 
      
     @include breakpoint($large) {
