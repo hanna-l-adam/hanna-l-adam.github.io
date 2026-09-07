@@ -23,10 +23,10 @@ and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)
 [
 <a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Online Appendix</a>
 ] |
+Policy Outreach:
 [
 <a href="https://gestio.coleconomistes.cat/MAILS/DOCS/12.Quantifying%20the%20Potencial%20Economic.pdf" target="_blank">Catalonia Congress</a>
-] |
-[
+|
 <a href="https://ecipe.org/insights/spain-split-and-talk-quantifying-regional-independence/" target="_blank">ECIPE Outreach</a>
 ]
 
