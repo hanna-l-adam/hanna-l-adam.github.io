@@ -45,6 +45,7 @@ and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" 
 <strong>Abstract.</strong> This paper analyses the differential effect of trade agreements on income per capita of subnational regions with international borders. We construct an extensive panel dataset covering 1350 regions in 86 countries worldwide between 1950 and 2017. Our results show that trade agreements are positively associated with income per capita of regions sharing contiguous borders with trading partners, relative to regions sharing borders with countries with whom no trade agreements exist. For border regions, the positive relationship of trade agreements and regional income roughly compensates potential income disadvantages of having international borders. These insights help in explaining and mitigating regional inequalities.
 </div>
 
+
 # Working Papers  
 **ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and an Application to Trade Flows**
 (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>
@@ -56,6 +57,7 @@ and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael
 <div style="margin-left:1em; font-size:0.92em; color:#555;">
 <strong>Abstract.</strong> Performing an analysis of variance (ANOVA) on a large dataset spanning many dimensions becomes computationally challenging or even infeasible. We develop a new, fast procedure, ANOVA-HDFE, which uses sequential linear regressions and builds on recent advances in regression analysis with high-dimensional fixed effects (HDFE). It accommodates both balanced and unbalanced settings with many categorical and continuous covariates, while also allowing for high-dimensional fixed effects. Applying ANOVA-HDFE to bilateral trade flows, we find that 60% of the variation is at the country or country-time level. Moreover, a substantial proportion of the pair-specific variation remains unexplained by standard trade cost proxy variables.
 </div>
+
 
 # Selected Work in Progress  
 **Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting.** 
