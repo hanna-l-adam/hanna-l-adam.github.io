@@ -9,6 +9,31 @@ redirect_from:
 
 # Publications
 
+**Spain, Split and Talk: Quantifying Regional Independence**
+(with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>
+and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)
+
+*Regional Studies*, 59(1), 2025.
+
+[
+<a href="https://www.uv.es/jorpaso2/papers/Spain_Split_talk_cesifo1_wp10742.pdf" target="_blank">Paper</a>
+] |
+[
+<a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Online Appendix</a>
+] |
+[
+<a href="https://gestio.coleconomistes.cat/MAILS/DOCS/12.Quantifying%20the%20Potencial%20Economic.pdf" target="_blank">Catalonia Congress</a>
+] |
+[
+<a href="https://ecipe.org/insights/spain-split-and-talk-quantifying-regional-independence/" target="_blank">ECIPE Outreach</a>
+]
+
+<div style="margin-left:1em; font-size:0.92em; color:#555;">
+<strong>Abstract.</strong> We quantify the economic impact of a potential secession of Catalonia from Spain. Using a novel dataset of trade flows between 17 Spanish subnational regions and 142 countries, we estimate the effects of different levels of borders on trade flows and uncover heterogeneity in regional, national and EU border effects. We use a general equilibrium analysis of trade with fiscal transfers to understand the consequences of a potential secession with political uncertainty. In counterfactual experiments, we impose new borders on Catalan regional and international trade, potentially within or outside the European Union, resulting in a welfare decline for Catalonia and Spain.
+</div>
+
+<br>
+
 **Spain, Split and Talk: Quantifying Regional Independence** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>), *Regional Studies*, 59(1), 2025.  
 Links: <a href="https://www.uv.es/jorpaso2/papers/Spain_Split_talk_cesifo1_wp10742.pdf" target="_blank">Paper</a>, <a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Online Appendix</a>, Policy Outreach: <a href="https://gestio.coleconomistes.cat/MAILS/DOCS/12.Quantifying%20the%20Potencial%20Economic.pdf" target="_blank">Congress of the Economy and Business of Catalonia</a>, <a href="https://ecipe.org/insights/spain-split-and-talk-quantifying-regional-independence/" target="_blank">European Centre for International Political Economy</a>
 > **Abstract:** We quantify the economic impact of a potential secession of Catalonia from Spain. Using a novel dataset of trade flows between 17 Spanish subnational regions and 142 countries, we estimate the effects of different levels of borders on trade flows and uncover heterogeneity in regional, national and EU border effects. We use a general equilibrium analysis of trade with fiscal transfers to understand the consequences of a potential secession with political uncertainty. In counterfactual experiments, we impose new borders on Catalan regional and international trade, potentially within or outside the European Union, resulting in a welfare decline for Catalonia and Spain.
