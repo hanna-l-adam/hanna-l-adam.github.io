@@ -12,9 +12,7 @@ redirect_from:
 **Spain, Split and Talk: Quantifying Regional Independence**
 (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>
 and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)
-
 *Regional Studies*, 59(1), 2025.
-
 [
 <a href="https://www.uv.es/jorpaso2/papers/Spain_Split_talk_cesifo1_wp10742.pdf" target="_blank">Paper</a>
 ] |
