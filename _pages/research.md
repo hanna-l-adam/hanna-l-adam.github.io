@@ -14,6 +14,7 @@ redirect_from:
 and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)
 
 *Regional Studies*, 59(1), 2025.
+
 [
 <a href="https://www.uv.es/jorpaso2/papers/Spain_Split_talk_cesifo1_wp10742.pdf" target="_blank">Paper</a>
 ] |
