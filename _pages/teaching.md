@@ -15,13 +15,14 @@ At the University of Bayreuth I have taught tutorials, seminars, and lectures, i
   - Lectures and Seminar on Time Series Analysis, undergraduate level, University of Bayreuth
   - Statistical Learning in the Age of "Big Data" and Machine Learning (seminar), graduate level, University of Bayreuth
 
-**International Trade**
-- Empirical International Trade (seminar), graduate level, University of Bayreuth
-- Empirical Trade Data Analysis (seminar), undergraduate level, University of Bayreuth
+- **International Trade**
+  - Empirical International Trade (seminar), graduate level, University of Bayreuth
+  - Empirical Trade Data Analysis (seminar), undergraduate level, University of Bayreuth
 
-**Regional Economics**
-- Regional Economics in a Globalized World: Empirically Investigating the Distribution of	Economic Activity Over Space (seminar), graduate level, University of Bayreuth
+- **Regional Economics**
+  - Regional Economics in a Globalized World: Empirically Investigating the Distribution of	Economic Activity Over Space (seminar), graduate level, University of Bayreuth
 
-**Thesis Supervision**
-- Master's Theses (5), Bachelor's Theses (13)
+- **Thesis Supervision**
+  - Master's Theses (5)
+  - Bachelor's Theses (13)
 
