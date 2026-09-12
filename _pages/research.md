@@ -52,7 +52,7 @@ and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael
 *CESifo Working Paper No. 12055*, 2025.  
 [
 <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/anova-hdfe-fast-variance-decomposition-high-dimensional-fixed" target="_blank">Working Paper</a>
-] | under review  
+] | Under Review  
 <div style="margin-left:1em; font-size:0.92em; color:#555;">
 <strong>Abstract.</strong> Performing an analysis of variance (ANOVA) on a large dataset spanning many dimensions becomes computationally challenging or even infeasible. We develop a new, fast procedure, ANOVA-HDFE, which uses sequential linear regressions and builds on recent advances in regression analysis with high-dimensional fixed effects (HDFE). It accommodates both balanced and unbalanced settings with many categorical and continuous covariates, while also allowing for high-dimensional fixed effects. Applying ANOVA-HDFE to bilateral trade flows, we find that 60% of the variation is at the country or country-time level. Moreover, a substantial proportion of the pair-specific variation remains unexplained by standard trade cost proxy variables.
 </div>
