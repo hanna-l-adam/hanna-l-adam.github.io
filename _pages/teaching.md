@@ -11,7 +11,7 @@ At the University of Bayreuth I have taught tutorials, seminars, and lectures, i
   - Econometrics I (exercise class), undergraduate level, University of Bayreuth
   - Introduction to Empirical Methods (lecture and exercise class), graduate level, University of Bayreuth
   - How Are Empirical Projects Pursued? Building Roadmaps from Existing Studies (seminar), graduate level, University of Bayreuth
-  - Lectures and Seminar on Time Series Analysis, undergraduate level, University of Bayreuth
+  - Lectures and Seminar on Time Series Analysis (seminar), undergraduate level, University of Bayreuth
   - Statistical Learning in the Age of "Big Data" and Machine Learning (seminar), graduate level, University of Bayreuth  
 - **International Trade**
   - Empirical International Trade (seminar), graduate level, University of Bayreuth
