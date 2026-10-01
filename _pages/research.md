@@ -17,8 +17,7 @@ redirect_from:
 # Publications
 
 <div class="paper" markdown="1">
-**Spain, Split and Talk: Quantifying Regional Independence**  
-(with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)  
+**Spain, Split and Talk: Quantifying Regional Independence** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.uv.es/jorpaso2/" target="_blank">Jordi Paniagua</a>)  
 *Regional Studies*, 59(1), 2025.  
 <span class="paper-links"><a href="https://www.uv.es/jorpaso2/papers/Spain_Split_talk_cesifo1_wp10742.pdf" target="_blank">Paper</a> · <a href="https://doi.org/10.1080/00343404.2024.2437501" target="_blank">Online Appendix</a> · Policy Outreach: <a href="https://gestio.coleconomistes.cat/MAILS/DOCS/12.Quantifying%20the%20Potencial%20Economic.pdf" target="_blank">Catalonia Congress</a>, <a href="https://ecipe.org/insights/spain-split-and-talk-quantifying-regional-independence/" target="_blank">ECIPE</a></span>
 
@@ -28,8 +27,7 @@ redirect_from:
 </div>
 
 <div class="paper" markdown="1">
-**Trade Agreements and Subnational Income of Border Regions**  
-(with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>)  
+**Trade Agreements and Subnational Income of Border Regions** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>)  
 *Economic Inquiry*, 61(4), 2023, pp. 1034–1052.  
 <span class="paper-links"><a href="https://doi.org/10.1111/ecin.13151" target="_blank">Paper</a> · <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fecin.13151&file=ecin13151-sup-0002_Appendix.pdf" target="_blank">Online Appendix</a> · <a href="https://doi.org/10.3886/E191609V3" target="_blank">Replication Files</a></span>
 
@@ -41,8 +39,7 @@ redirect_from:
 # Working Papers
 
 <div class="paper" markdown="1">
-**ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and an Application to Trade Flows**  
-(with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael Nower</a>)  
+**ANOVA-HDFE: Fast Variance Decomposition with High-Dimensional Fixed Effects and an Application to Trade Flows** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://sites.google.com/view/michaelnower" target="_blank">Michael Nower</a>)  
 *CESifo Working Paper No. 12055*, 2025.  
 <span class="paper-links"><a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/anova-hdfe-fast-variance-decomposition-high-dimensional-fixed" target="_blank">Working Paper</a> · Under Review</span>
 
@@ -62,8 +59,7 @@ redirect_from:
 </div>
 
 <div class="paper" markdown="1">
-**A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement**  
-(with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)
+**A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)
 
 <div class="abstract" markdown="0">
 <strong>Abstract.</strong> We quantify the subnational effects of supranational trade and migration policy within and across European Union (EU) countries. To this end, our multi-country, multi-region general equilibrium framework incorporates migration between subnational regions into a multi-country gravity model of regional trade. Using data on bilateral regional trade and migration flows in the EU, we estimate the effects of the 2004 enlargement of the EU and conduct a general equilibrium analysis, assessing the regional trade, migration, and welfare implications of the policy change. Our results suggest that the EU enlargement increased regional trade by about 40% and regional migration by about 70%. We find positive welfare effects across the EU, with more heterogeneities across but also within countries. Accounting for migration decisions, we find that workers migrating to a different region due to the EU enlargement experience a welfare increase of about 40% on average.
@@ -71,8 +67,7 @@ redirect_from:
 </div>
 
 <div class="paper" markdown="1">
-**Spillovers, Trade Agreements and Border Regions: Econometric Evidence from Subnational Data**  
-(with <a href="https://www.entwicklung.uni-bayreuth.de/en/team/Bieske-Lara/index.php" target="_blank">Lara Bieske</a>, <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>)
+**Spillovers, Trade Agreements and Border Regions: Econometric Evidence from Subnational Data** (with <a href="https://www.entwicklung.uni-bayreuth.de/en/team/Bieske-Lara/index.php" target="_blank">Lara Bieske</a>, <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a> and <a href="https://www.entwicklung.uni-bayreuth.de/en/team/david-stadelmann/" target="_blank">David Stadelmann</a>)
 
 <div class="abstract" markdown="0">
 <strong>Abstract.</strong> We analyse spatial dependence and spillover effects in economic income across subnational regions using a panel dataset (1950-2020) of regional GDP per capita for 1,361 regions across 86 countries worldwide. The data and setting allow us to evaluate the strength of spatial dependence both stepwise and in equilibrium across different types of neighbouring regions by employing a spatial autoregressive model. Our findings reveal strong positive spillovers between intra-national neighbours, with considerably smaller spillovers between international neighbours. We further show that spatial dependence tends to intensify when international neighbours are part of a common trade agreement and neighbouring regions have more similar election preferences. Consequently, depending on the type of border, income growth in neighbouring regions is positively affecting a region's own growth. These results emphasise the significance of spatial dependence in understanding regional disparities and considering how policy decisions in one country or region can influence economic outcomes in neighbouring regions.
