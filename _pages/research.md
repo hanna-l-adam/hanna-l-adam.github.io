@@ -49,7 +49,7 @@ author_profile: true
 # Selected Work in Progress
 
 <div class="paper" markdown="1">
-**Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting**
+**Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting**  
 <span class="paper-links">Job Market Paper · <a href="/files/Adam_Transport_Infrastructure.pdf" target="_blank">Latest Version</a></span>
 
 <div class="abstract" markdown="0">
