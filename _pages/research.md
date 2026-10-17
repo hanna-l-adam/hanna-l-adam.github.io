@@ -9,7 +9,7 @@ author_profile: true
   .paper { margin-bottom: 1.8em; }
   .paper-links { font-size: 0.92em; }
   .paper-links a { white-space: nowrap; }
-  .abstract { margin: 0.5em 0 0 1em; font-size: 0.92em; color: #555; }
+  .abstract { margin: 0.5em 0 0 1em; font-size: 0.92em; color: inherit; }
 </style>
 
 # Publications
