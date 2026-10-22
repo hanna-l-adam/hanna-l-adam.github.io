@@ -58,7 +58,8 @@ author_profile: true
 </div>
 
 <div class="paper" markdown="1">
-**A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)
+**A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)  
+<span class="paper-links"><a href="/files/AdamLarchTradeMigration.pdf" target="_blank">Latest Version</a></span>
 
 <div class="abstract" markdown="0">
 <strong>Abstract.</strong> We quantify the subnational effects of supranational trade and migration policy within and across European Union (EU) countries. To this end, our multi-country, multi-region general equilibrium framework incorporates migration between subnational regions into a multi-country gravity model of regional trade. Using data on bilateral regional trade and migration flows in the EU, we estimate the effects of the 2004 enlargement of the EU and conduct a general equilibrium analysis, assessing the regional trade, migration, and welfare implications of the policy change. Our results suggest that the EU enlargement increased regional trade by about 40% and regional migration by about 70%. We find positive welfare effects across the EU, with more heterogeneities across but also within countries. Accounting for migration decisions, we find that workers migrating to a different region due to the EU enlargement experience a welfare increase of about 40% on average.
