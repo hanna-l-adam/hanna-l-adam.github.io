@@ -46,7 +46,7 @@ author_profile: true
 </div>
 </div>
 
-# Selected Work in Progress
+# Work in Progress
 
 <div class="paper" markdown="1">
 **Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting**  
