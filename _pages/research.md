@@ -73,3 +73,11 @@ author_profile: true
 <strong>Abstract.</strong> We analyse spatial dependence and spillover effects in economic income across subnational regions using a panel dataset (1950-2020) of regional GDP per capita for 1,361 regions across 86 countries worldwide. The data and setting allow us to evaluate the strength of spatial dependence both stepwise and in equilibrium across different types of neighbouring regions by employing a spatial autoregressive model. Our findings reveal strong positive spillovers between intra-national neighbours, with considerably smaller spillovers between international neighbours. We further show that spatial dependence tends to intensify when international neighbours are part of a common trade agreement and neighbouring regions have more similar election preferences. Consequently, depending on the type of border, income growth in neighbouring regions is positively affecting a region's own growth. These results emphasise the significance of spatial dependence in understanding regional disparities and considering how policy decisions in one country or region can influence economic outcomes in neighbouring regions.
 </div>
 </div>
+
+<div class="paper" markdown="1">
+**What Drives World Trade Growth? Analysing the Role of Key Players Using ANOVA** (with <a href="https://www.wifo.ac.at/en/person/gabriel-felbermayr" target="_blank">Gabriel Felbermayr</a> and <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)
+
+<div class="abstract" markdown="0">
+<strong>Abstract.</strong> We ask the question what happens with world trade if individual countries grow over-proportionally, with a focus on the growth of China. Using data on international trade flows between 1986-2019 for 256 countries from ITPD-E R02 we document a change in the growth of international trade following the global financial crisis of 2008. Using a newly developed method for fast and scalable implementation of analysis of variance (ANOVA), we decompose international trade flows into the dimensions of variation to uncover the origins in the change in trade growth. We highlight the role played by China in explaining the observed patterns of international trade over time.
+</div>
+</div>
