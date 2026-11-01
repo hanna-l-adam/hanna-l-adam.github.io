@@ -12,6 +12,17 @@ author_profile: true
   .abstract { margin: 0.5em 0 0 1em; font-size: 0.92em; color: inherit; }
 </style>
 
+# Job Market Paper
+
+<div class="paper" markdown="1">
+**Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting**  
+<span class="paper-links">Job Market Paper · <a href="/files/Adam_Transport_Infrastructure.pdf" target="_blank">Latest Version</a></span>
+
+<div class="abstract" markdown="0">
+<strong>Abstract.</strong> Transport infrastructure affects regional economies through trade and commuting, two channels that are rarely studied together, particularly by transport mode. I develop a quantitative spatial framework of subnational trade and commuting within and across countries. Workers choose where to live and work. Trade and commuting flows are split between transport modes and respond to mode-specific transport costs. I construct a novel dataset for 2010--2018 on bilateral goods trade and commuting flows between 271 European NUTS2 regions and on completed road and rail infrastructure projects in the Trans-European Transport Network (TEN-T). I use the framework to quantify the regional effects of projects under the European Union's TEN-T policy in two steps. First, I structurally estimate the effect of completed infrastructure projects on bilateral transport costs by mode, finding a robust cost reduction for rail but not for road. Second, I use the estimated rail cost reduction to conduct a counterfactual general equilibrium analysis of the effects of TEN-T rail projects. The effects differ substantially between regions, both across and within countries. Commuting accounts for 62% of the aggregate welfare gain and trade for 38%, suggesting that assessments of transport infrastructure policy should account for effects on both goods trade and worker mobility.
+</div>
+</div>
+
 # Publications
 
 <div class="paper" markdown="1">
@@ -47,15 +58,6 @@ author_profile: true
 </div>
 
 # Work in Progress
-
-<div class="paper" markdown="1">
-**Evaluating the Effects of Transport Infrastructure Policy on European Subnational Regions in a Framework with Trade and Commuting**  
-<span class="paper-links">Job Market Paper · <a href="/files/Adam_Transport_Infrastructure.pdf" target="_blank">Latest Version</a></span>
-
-<div class="abstract" markdown="0">
-<strong>Abstract.</strong> This paper quantifies the regional effects of the European Union's transport infrastructure policy using a structural framework of bilateral trade and commuting across subnational regions in Europe. The model features workers' choice of residence and workplace, and allows both commuting and goods trade to cross national borders and use different transport modes. I construct novel data on bilateral regional trade and commuting flows and on completed road and rail infrastructure projects under the Trans-European Transport Network (TEN-T) between 2010 and 2018. Taking the model to the data, I first estimate the effect of infrastructure project completions on regional bilateral transport costs by mode, finding a robust cost reduction for rail but not for road. Second, I use the estimated rail cost reduction to conduct a counterfactual general equilibrium analysis of the regional effects of this pan-European infrastructure policy. The results show that labour mobility accounts for a larger share of the welfare effects than trade, suggesting that large-scale transport infrastructure policy must be evaluated through its effects on both goods and labour mobility to capture the full economic returns.
-</div>
-</div>
 
 <div class="paper" markdown="1">
 **A Structural Regional Trade and Migration Framework for Policy Evaluation: Quantifying the Regional Effects of the 2004 EU Enlargement** (with <a href="https://www.ewf.uni-bayreuth.de/en/team/Prof_Mario_Larch/index.php" target="_blank">Mario Larch</a>)  
